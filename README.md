@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ljeremy&label=Profile%20views&color=0e75b6&style=flat" alt="ljeremy" /> </p>
 
-- ⚡ Fun fact **I drink too much coffee**
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/lars-van-houwelingen-010b7032/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/lars-van-houwelingen-010b7032/" height="30" width="40" /></a>
